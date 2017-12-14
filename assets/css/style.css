@@ -1,0 +1,18 @@
+body {
+	background-color: grey;
+	color:white;
+	font-size: 200%;
+	font-weight: bold;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	-webkit-text-stroke: 3.0px black;
+	-webkit-text-fill-color: blue;
+}
+
+#gametime {
+	background-color: blue;
+	border:3px solid black;
+}
