@@ -1,9 +1,8 @@
 <h1>Get That App</h1>
 
+<strong>The Get That App is a visual aide to saving for purchases made through Amazon.</strong>
 
-<h6>The Get That App is a visual aide to saving for purchases made through Amazon.</h6>
-
-<strong>It is built using React, and uses express, mongoose, axios, bootstrap4, Auth0 and a few other dependencies.</strong>
+<h6>It is built using React, and uses express, mongoose, cheerio, axios, bootstrap4, Auth0, animejs, babel & webpack.</h6>
 
 <p>The Get That App allows a user to set a budget and then browse Amazons website based
 on a keyword search. Once the user has found an item they like, they are able to select from 
